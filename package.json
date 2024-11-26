@@ -28,7 +28,7 @@
         "google-play-scraper": "^8.0.4",
         "jsdom": "^15.2.1",
         "minecraft-api": "^0.0.2",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "moment-timezone": "^0.5.32",
         "mongoose": "^5.13.9",
         "mongoose-findorcreate": "^3.0.0",
